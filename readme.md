@@ -3,7 +3,7 @@
  * BigTangle is a cryptocurrency network extending the directed acyclic graph with Markov Chain Monte Carlo (MCMC) 
 as consensus algorithm and distributed Proof-of-Work. 
  * Through the use of industry standard big data technology in conjunction with the parallelizable architecture, 
-BigTangle sees itself as a successor to Bitcoin and Ethereum that blockchain and smart contract are BigTangle special use case.  
+BigTangle sees itself as a 1successor to Bitcoin and Ethereum that blockchain and smart contract are BigTangle special use case.  
  * BigTangle focuses on economically important key use-cases. Custom token issuances, market, exchange, mining and contract are supported.
  * Key Feartures are: Ease of Use, Completely Feeless, Real-Time Confirmation, Infinite Scalability, Permissionless, Trustless, Decentralized, Distributed Proof of Work and Quantum Security. 
   * https://bigtangle.net
